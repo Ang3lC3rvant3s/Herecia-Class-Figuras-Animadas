@@ -1,0 +1,9 @@
+c:\users\angel\documents\visual studio 2013\Projects\CirculosR\CirculosR\bin\Debug\CirculosR.exe.config
+c:\users\angel\documents\visual studio 2013\Projects\CirculosR\CirculosR\bin\Debug\CirculosR.exe
+c:\users\angel\documents\visual studio 2013\Projects\CirculosR\CirculosR\bin\Debug\CirculosR.pdb
+c:\users\angel\documents\visual studio 2013\Projects\CirculosR\CirculosR\obj\Debug\CirculosR.csprojResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2013\Projects\CirculosR\CirculosR\obj\Debug\CirculosR.Form1.resources
+c:\users\angel\documents\visual studio 2013\Projects\CirculosR\CirculosR\obj\Debug\CirculosR.Properties.Resources.resources
+c:\users\angel\documents\visual studio 2013\Projects\CirculosR\CirculosR\obj\Debug\CirculosR.csproj.GenerateResource.Cache
+c:\users\angel\documents\visual studio 2013\Projects\CirculosR\CirculosR\obj\Debug\CirculosR.exe
+c:\users\angel\documents\visual studio 2013\Projects\CirculosR\CirculosR\obj\Debug\CirculosR.pdb
